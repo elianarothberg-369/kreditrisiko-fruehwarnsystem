@@ -12,7 +12,7 @@ Analyse von 11.028 Kreditanträgen.
 1. Datenbereinigung und explorative Datenanalyse (EDA)
 2. Entwicklung eines Machine-Learning-Modells zur Risikovorhersage
 3. Bewertung des Modells mit Fokus auf hohe Trefferquote (Recall), damit möglichst wenige Risikokredite übersehen werden
-4. Darstellung der Ergebnisse in einem Dashboard
+4. Darstellung der Ergebnisse in einem interaktiven Tableau-Dashboard
 
 ## Ergebnis
 IHK-Prüfung erfolgreich bestanden.
