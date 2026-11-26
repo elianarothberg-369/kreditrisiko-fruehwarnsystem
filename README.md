@@ -18,7 +18,7 @@ Analyse von 11.028 Kreditanträgen.
 IHK-Prüfung erfolgreich bestanden.
 
 ## Tools
-Python, Pandas, Scikit-learn, Dashboarding
+Python, Pandas, Scikit-learn, Tableau
 
 ## Team
 Elen Mrgic, Junfeng Lee, Sergey Kasatov
